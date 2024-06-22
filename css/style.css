@@ -413,7 +413,7 @@
         width: 100%;
         object-fit: cover;
         /* makes the top of the image start at the top of the parent */
-        object-position: top;
+        object-position: center;
     }
     #hero-1059 .cs-container {
         width: 100%;
@@ -1024,11 +1024,3 @@
         order: 2;
     }
 }
-
-
-                                
-                                
-                                
-
-                                                                                        
-                                
